@@ -1,5 +1,5 @@
 /**
- * コンテキストでステート管理
+ * contextでのステート管理
  */
 import { createContext, useState } from "react";
 
